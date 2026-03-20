@@ -1,2 +1,3 @@
-# open-task-manager-0jnh
-Automated issue comment bot repository
+# Open Task Manager 0Jnh
+
+Automated issue comment bot repository.
